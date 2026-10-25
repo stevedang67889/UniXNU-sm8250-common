@@ -1,0 +1,12 @@
+"schema_version" = 2
+
+["soc"]
+"name" = "sm8250"
+"description" = "Qualcomm SM8250 (Snapdragon 865)"
+# Mainline device trees are the reference for controller resources; the board
+# repository adds the wiring for each device.
+"source_repository" = "https://github.com/torvalds/linux"
+"source_revision" = "adc218676eef25575469234709c2d87185ca223a"   # v6.12
+
+["components"]
+"include" = ["ArmCpu", "ArmDTPlatform", "SoftwareAES"]
