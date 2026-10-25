@@ -1,4 +1,4 @@
-﻿# UniXNU-sm8250-common
+# UniXNU-sm8250-common
 
 Shared Qualcomm SM8250 (Snapdragon 865) support for UniXNU device ports.
 
